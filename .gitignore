@@ -1,0 +1,15 @@
+# сборка и артефакты
+build/
+dist/
+*.o
+bench/fastscan
+bench/probe
+
+# системный мусор
+.DS_Store
+
+# данные сканирования: содержат реальные пути того, кто запускал
+mockup/home.json
+mockup/*.json
+!mockup/demo-tree.json
+reports/

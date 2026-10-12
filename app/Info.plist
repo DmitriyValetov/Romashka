@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleExecutable</key><string>Romashka</string>
+  <key>CFBundleIdentifier</key><string>dev.dk.romashka</string>
+  <key>CFBundleName</key><string>Romashka</string>
+  <key>CFBundleDisplayName</key><string>Ромашка</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
+  <key>CFBundleIconFile</key><string>Romashka</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.utilities</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSHumanReadableCopyright</key><string>Локальная сборка</string>
+  <key>NSDesktopFolderUsageDescription</key>
+  <string>«Ромашка» считает размеры папок, чтобы показать, что занимает место на диске.</string>
+  <key>NSDocumentsFolderUsageDescription</key>
+  <string>«Ромашка» считает размеры папок, чтобы показать, что занимает место на диске.</string>
+  <key>NSDownloadsFolderUsageDescription</key>
+  <string>«Ромашка» считает размеры папок, чтобы показать, что занимает место на диске.</string>
+  <key>NSRemovableVolumesUsageDescription</key>
+  <string>«Ромашка» считает размеры папок на подключённых дисках.</string>
+</dict>
+</plist>
